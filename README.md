@@ -1,2 +1,23 @@
-# CryptoVis
-This project provides a visual explorer of blockchain-based cryptocurrency transaction data, called SilkViser. It's designed to help users intuitively understand relevant concepts and processes about cryptocurrency transaction mechanisms, as well as visually recognize essential and advanced transaction information.
+# Blockchain Data Project
+
+This project is aimed at visualizing data related to the bitcoin blockchain network. It consists of a folder structure with various files and directories. Below is the outline of the code:
+
+    ├── README.md
+    ├── images
+    ├── project 
+        ├── node_modules
+        ├── pages
+        ├── data 
+        └── scripts
+
+
+
+## Getting Started
+
+- To begin, navigate to the `/project/pages` directory and open `index.html` in your preferred web browser with live server. 
+
+- To test all scripts and data wrangling/manipulation functionalities used to create the dataset, navigate to the `project` directory and run: `npm install`
+
+The final dataset is located in the `/project/data` folder.
+
+
